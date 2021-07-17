@@ -1,4 +1,4 @@
-# CSE231-Shell-Assignment
+# Linux Shell using C
 Made our own custom shell using C in Linux 
 
 Below is the list of commands implemented  
