@@ -16,4 +16,4 @@ Below is the list of commands implemented
 | exit                | exit from the shell program                                                                                                |
 
 Made by:
-Prashant Tiwari
+Prashant Tiwari, Mansi Gupta, Chandranath Hazra
